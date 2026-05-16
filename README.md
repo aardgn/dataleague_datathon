@@ -1,6 +1,6 @@
 # dataleague_datathon
 Health Data No-Show Prediction pipeline using XGBoost, LightGBM, and CatBoost. Developed as the Team Lead for the Dataleague Datathon.
-# 📈 Health Data No-Show Prediction (Dataleague Datathon)
+# Health Data No-Show Prediction (Dataleague Datathon)
 
 Bu proje, Dataleague Datathon kapsamında takım lideri olarak kurgulayıp geliştirdiğim, hastaların sağlık randevularına gelmeme durumlarını tahmin etmeyi amaçlayan uçtan uca bir makine öğrenmesi pipeline'ıdır.
 
@@ -27,6 +27,6 @@ Kısıtlı süre altında karşılaşılan veri problemlerine uyguladığım mü
 
 ---
 
-## ⚙️ Dosya Yapısı ve Kullanım
+## Dosya Yapısı ve Kullanım
 
 * `datathon_final.ipynb`: Veri ön işleme, özellik mühendisliği, model eğitimi, ensemble ağırlık optimizasyonu ve çıktı üretme adımlarının tamamını içeren detaylı Jupyter Notebook.
